@@ -2,8 +2,7 @@
 
 ## Subjects
 
-### Mathematics
-
-> [! summary] Linear Algebra
+> [! summary] `ris:Add`Mathematics`ris:Mac`  
+> [[Linear Algebra]]
 
 # Efforts
