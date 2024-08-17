@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "0880141c9de67ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c902dddb0688f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee80210c568716a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "page": 164,
+                "left": 79,
+                "top": 353,
+                "zoom": 2.903846153846154
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e50fecc47fceb20a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee1ce37f7e285e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b44bc66b81b0ac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "0445b4c3c474b762",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd26984cf0895579",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c3b46ad5abe31b8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "43fc27400badb105",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c065ec571345d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141091543637c66f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c44e965ec4ffd46f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a6df045dc5c37977",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d23d8299e353448c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf"
+              }
+            }
+          },
+          {
+            "id": "1a664d19271f8831",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "06e2c3c747c6fa6a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "66e92928e04d7249",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "058bebb3067d4924",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 471.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "eee80210c568716a",
+  "lastOpenFiles": [
+    "trial/NotesByPrabin",
+    "trial",
+    "NotesByPrabin",
+    "ATLAS/Chapter 4.md",
+    "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+    "Templates/Daily Template.md",
+    "Templates/Atlas Template.md",
+    "Templates",
+    "Homepage.md",
+    "Welcome.md",
+    "ATTACHMENTS",
+    "EFFORTS",
+    "CALENDER",
+    "Untitled/w.md",
+    "ATLAS",
+    "ATLAS/ATLAS.md",
+    "ATLAS/Templates/FolderNote.md",
+    "ATLAS/SubjectNotes/SubjectNotes.md",
+    "ATLAS/Attachements/Attachements.md",
+    "ATLAS/Templates/_Clipper Template.md",
+    "ATLAS/SubjectNotes/DS/DS.md",
+    "ATLAS/SubjectNotes/Cyber Security/Cyber Security.md",
+    "ATLAS/SubjectNotes/C PP/C PP.md",
+    "ATLAS/SubjectNotes/CS/CS.md",
+    "Important.md",
+    "Databases/Databases.md",
+    "Databases/SubjectNotes.md",
+    "Databases",
+    "ATLAS/SubjectNotes/Maths/Linear Algebra/Linear Algebra Notes.md",
+    "ATLAS/Templates/Daily Template.md",
+    "CALENDER/Daily Notes/Fri 16-08-2024.md",
+    "CALENDER/Daily Notes/Thu 15-08-2024.md",
+    "ATLAS/Attachements/PNG/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+    "ATLAS/SubjectNotes/Maths/Linear Algebra/Untitled.md",
+    "ATLAS/SubjectNotes/CS/ARCHITECTURE/Questions Given by RASA.md",
+    "ATLAS/SubjectNotes/Cyber Security/cyber espionage.md",
+    "ATLAS/Attachements/PNG/flynn's taxonomy 1.png",
+    "ATLAS/Attachements/PNG/Pasted image 20240812211330.png",
+    "ATLAS/Attachements/PNG/flynn's taxonomy.png",
+    "ATLAS/Attachements/PNG/Pasted image 20240812210025.png",
+    "ATLAS/Attachements/PNG/Pasted image 20240812210016.png",
+    "ATLAS/Attachements/PNG/Pasted image 20240811204203.png",
+    "ATLAS/Attachements/PNG/Pasted image 20240810102555.png",
+    "!HOME.canvas",
+    "Untitled.canvas",
+    "ATLAS/SubjectNotes/C PP/Untitled.canvas",
+    "ATLAS/Attachements/PNG/Pasted image 20240804111843.png",
+    "ATLAS/Attachements/PNG/Pasted image 20240602163417.png",
+    "EFFORTS/CS-COD Assignments/CS-COD Assignments.canvas",
+    "EFFORTS/!ABAW/!ABAW.canvas",
+    "ATLAS/SubjectNotes/C PP/C PP.canvas",
+    "EFFORTS/EFFORTS.canvas",
+    "ATLAS/SubjectNotes/SubjectNotes.canvas",
+    "ATLAS/Attachements/PNG/Pasted image 20240402093813.png"
+  ]
+}
