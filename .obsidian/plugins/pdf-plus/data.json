@@ -59,12 +59,12 @@
   "existingTabHighlightDuration": 0.75,
   "paneTypeForFirstPDFLeaf": "left",
   "openLinkNextToExistingPDFTab": true,
-  "openPDFWithDefaultApp": true,
+  "openPDFWithDefaultApp": false,
   "openPDFWithDefaultAppAndObsidian": true,
   "focusObsidianAfterOpenPDFWithDefaultApp": true,
   "syncWithDefaultApp": false,
   "dontActivateAfterOpenPDF": true,
-  "dontActivateAfterOpenMD": true,
+  "dontActivateAfterOpenMD": false,
   "highlightDuration": 0.75,
   "noTextHighlightsInEmbed": false,
   "noAnnotationHighlightsInEmbed": true,
@@ -83,7 +83,7 @@
     "Important": "#bb61e5"
   },
   "defaultColor": "",
-  "defaultColorPaletteItemIndex": 1,
+  "defaultColorPaletteItemIndex": 0,
   "syncColorPaletteItem": true,
   "syncDefaultColorPaletteItem": false,
   "colorPaletteInToolbar": true,
@@ -128,7 +128,7 @@
   "contextMenuConfig": [
     {
       "id": "action",
-      "visible": false
+      "visible": true
     },
     {
       "id": "selection",
@@ -136,7 +136,7 @@
     },
     {
       "id": "write-file",
-      "visible": false
+      "visible": true
     },
     {
       "id": "annotation",
@@ -144,7 +144,7 @@
     },
     {
       "id": "modify-annotation",
-      "visible": false
+      "visible": true
     },
     {
       "id": "link",
@@ -160,15 +160,15 @@
     },
     {
       "id": "speech",
-      "visible": false
+      "visible": true
     },
     {
       "id": "page",
-      "visible": false
+      "visible": true
     },
     {
       "id": "settings",
-      "visible": false
+      "visible": true
     }
   ],
   "selectionProductMenuConfig": [
@@ -211,9 +211,9 @@
   "useCallout": true,
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
-  "highlightBacklinksInEmbed": true,
+  "highlightBacklinksInEmbed": false,
   "highlightBacklinksInHoverPopover": false,
-  "highlightBacklinksInCanvas": false,
+  "highlightBacklinksInCanvas": true,
   "clickPDFInternalLinkWithModifierKey": true,
   "clickOutlineItemWithModifierKey": true,
   "clickThumbnailWithModifierKey": true,
@@ -223,7 +223,7 @@
   "autoCopy": true,
   "autoFocus": false,
   "autoPaste": true,
-  "autoFocusTarget": "last-paste",
+  "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
   "openAutoFocusTargetIfNotOpened": true,
   "howToOpenAutoFocusTargetIfNotOpened": "right",
@@ -262,17 +262,17 @@
   "newFileTemplatePath": "",
   "newPDFLocation": "current",
   "newPDFFolderPath": "",
-  "rectEmbedStaticImage": true,
+  "rectEmbedStaticImage": false,
   "rectImageFormat": "file",
   "rectImageExtension": "webp",
   "zoomToFitRect": true,
   "rectEmbedResolution": 100,
   "includeColorWhenCopyingRectLink": true,
   "backlinkIconSize": 50,
-  "showBacklinkIconForSelection": false,
-  "showBacklinkIconForAnnotation": false,
+  "showBacklinkIconForSelection": true,
+  "showBacklinkIconForAnnotation": true,
   "showBacklinkIconForOffset": true,
-  "showBacklinkIconForRect": false,
+  "showBacklinkIconForRect": true,
   "showBoundingRectForBacklinkedAnnot": false,
   "hideReplyAnnotation": false,
   "searchLinkHighlightAll": "true",

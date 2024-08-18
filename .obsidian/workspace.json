@@ -4,36 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4946a2962e341c4b",
+        "id": "44ec5ecb85f38d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "747dc8219b0b7064",
+            "id": "f658a83bae7b889a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ATLAS/Chapter 4.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6185761f26d92907",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
-                "page": 1,
-                "zoom": 1
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "file": "ATLAS/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "file": "ATLAS/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf"
+                "file": "ATLAS/Chapter 4.md"
               }
             }
           },
@@ -186,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf"
+                "file": "ATLAS/Chapter 4.md"
               }
             }
           }
@@ -221,13 +208,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6185761f26d92907",
+  "active": "f658a83bae7b889a",
   "lastOpenFiles": [
-    "ATLAS/Chapter 4.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
-    "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
+    "ATLAS/Chapter 4.md",
     "ATLAS/Linear Algebra.md",
     "Homepage.md",
+    "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "Mathematics.md",
     "trial/NotesByPrabin",
     "trial",
