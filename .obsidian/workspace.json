@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7169c2cfd0c1668a",
+        "id": "dacb09a2a0cbb479",
         "type": "tabs",
         "children": [
           {
-            "id": "57469d5c7f28005c",
+            "id": "f022f23ea9939e38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,7 +208,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "57469d5c7f28005c",
+  "active": "f022f23ea9939e38",
   "lastOpenFiles": [
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATLAS/Chapter 4.md",
