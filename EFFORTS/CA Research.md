@@ -23,7 +23,7 @@ tags:
 [https://research.cs.wisc.edu/multifacet/papers/cal14_gem5gpu.pdf](https://research.cs.wisc.edu/multifacet/papers/cal14_gem5gpu.pdf)  
 [https://github.com/UCSBarchlab/OpenTPU](https://github.com/UCSBarchlab/OpenTPU)  
 [https://fleker.medium.com/running-a-heterogeneous-cpu-gpu-simulation-with-gem5-15aaa0b51f0c](https://fleker.medium.com/running-a-heterogeneous-cpu-gpu-simulation-with-gem5-15aaa0b51f0c)  
-[https://accel-sim.github.io/](https://accel-sim.github.io/)
+[https://accel-sim.github.io/](https://accel-sim.github.io/)  
 [https://hackmd.io/@ipc23/hw6](https://hackmd.io/@ipc23/hw6)  - A tutorial on GP-GPUsim  
 [https://www.cse.iitd.ac.in/~srsarangi/files/papers/gputejas.pdf](https://www.cse.iitd.ac.in/~srsarangi/files/papers/gputejas.pdf)  - Tejas has a GPU simulator   
 [https://github.com/jinhachung/tptpu-sim](https://github.com/jinhachung/tptpu-sim) - TPU simulator  
@@ -33,7 +33,7 @@ tags:
 # Courses
 
 [https://labs.engineering.asu.edu/mps-lab/teaching/mla/](https://labs.engineering.asu.edu/mps-lab/teaching/mla/)  
-Efficient Processing of Deep Neural networks books is a good reference 
+Efficient Processing of Deep Neural networks books is a good reference  
 [https://github.com/MPSLab-ASU/ML-Accelerators/blob/main/README.md](https://github.com/MPSLab-ASU/ML-Accelerators/blob/main/README.md)  
 
 # A Compendium of References
