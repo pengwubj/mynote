@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dad204975a3972ac",
+            "id": "a8889279b9b2ee90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CALENDER/Aug 34th Week 2024.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CALENDER/Aug 34th Week 2024.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CALENDER/Aug 34th Week 2024.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CALENDER/Aug 34th Week 2024.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CALENDER/Aug 34th Week 2024.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 471.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +207,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "141091543637c66f",
+  "active": "a8889279b9b2ee90",
   "lastOpenFiles": [
-    "CALENDER/Thu 22-08-2024.md",
+    "Heatmaps.md",
     "CALENDER/Aug 34th Week 2024.md",
+    "CALENDER/Thu 22-08-2024.md",
     "Homepage.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Chiplets.md",
@@ -243,7 +245,6 @@
     "ATLAS/SubjectNotes/DS/DS.md",
     "ATLAS/SubjectNotes/Cyber Security/Cyber Security.md",
     "ATLAS/SubjectNotes/C PP/C PP.md",
-    "ATLAS/SubjectNotes/CS/CS.md",
     "Databases",
     "ATLAS/Attachements/PNG/flynn's taxonomy 1.png",
     "ATLAS/Attachements/PNG/Pasted image 20240812211330.png",
