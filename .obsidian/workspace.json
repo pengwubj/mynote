@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa527b3a4fc08974",
+        "id": "1ec9fcd1845dabff",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac9fa76947971d4",
+            "id": "e7a6530dd67e4d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/AMD RDNA.md",
-                "mode": "preview",
+                "file": "Homepage.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/AMD RDNA.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/AMD RDNA.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/AMD RDNA.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/AMD RDNA.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -208,8 +208,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ac9fa76947971d4",
+  "active": "e7a6530dd67e4d6e",
   "lastOpenFiles": [
+    "EFFORTS/AMD RDNA.md",
     "EFFORTS/CA Notes.md",
     "Homepage.md",
     "ATLAS/CPP.md",
@@ -220,7 +221,6 @@
     "CALENDER/Thu 22-08-2024.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Chiplets.md",
-    "EFFORTS/AMD RDNA.md",
     "Templates/Daily Template.md",
     "Templates/Weekly Note.md",
     "EFFORTS/Given by Naveen.md",
