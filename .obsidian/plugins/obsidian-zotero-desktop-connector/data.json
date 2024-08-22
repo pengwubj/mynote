@@ -8,7 +8,7 @@
     {
       "name": "Format #1",
       "format": "formatted-citation",
-      "cslStyle": "chicago-note-bibliography"
+      "cslStyle": "ieee"
     }
   ],
   "exportFormats": [

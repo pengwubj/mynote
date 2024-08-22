@@ -4,20 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "557e7dee7acd30ce",
+        "id": "76e9f281855965a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8872f0c01e2c9987",
+            "id": "8e4d05fdb4df039c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
-                "page": 249,
-                "left": -7,
-                "top": 337,
-                "zoom": 2.2445255474452557
+                "file": "Homepage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf"
+                "file": "Homepage.md"
               }
             }
           }
@@ -208,14 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8872f0c01e2c9987",
+  "active": "8e4d05fdb4df039c",
   "lastOpenFiles": [
+    "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATLAS/Chapter 4.md",
     "ATLAS/Linear Algebra.md",
     "Homepage.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/CA Notes.md",
-    "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "Mathematics.md",
     "trial/NotesByPrabin",
@@ -246,7 +245,6 @@
     "ATLAS/SubjectNotes/Maths/Linear Algebra/Linear Algebra Notes.md",
     "ATLAS/Templates/Daily Template.md",
     "CALENDER/Daily Notes/Fri 16-08-2024.md",
-    "CALENDER/Daily Notes/Thu 15-08-2024.md",
     "ATLAS/Attachements/PNG/flynn's taxonomy 1.png",
     "ATLAS/Attachements/PNG/Pasted image 20240812211330.png",
     "ATLAS/Attachements/PNG/flynn's taxonomy.png",
