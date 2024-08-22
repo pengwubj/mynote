@@ -4,14 +4,14 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "ddd DD-MM-YYYY",
-    "folder": "CALENDER/Daily Notes",
-    "template": "Atlas/Templates/Daily Template.md",
+    "folder": "CALENDER",
+    "template": "Templates/Daily Template.md",
     "enabled": true
   },
   "weekly": {
     "format": "MMM wo [Week] Y",
-    "template": "NotImportant/Templates/_Weekly Template.md",
-    "folder": "CALENDER/Weekly Notes",
+    "template": "Templates/Weekly Note.md",
+    "folder": "CALENDER",
     "enabled": true
   },
   "monthly": {

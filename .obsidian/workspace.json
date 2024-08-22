@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76e9f281855965a9",
+        "id": "5dcb67e87df404b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4d05fdb4df039c",
+            "id": "dad204975a3972ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "CALENDER/Aug 34th Week 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "right": {
     "id": "43fc27400badb105",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "CALENDER/Aug 34th Week 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "CALENDER/Aug 34th Week 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "CALENDER/Aug 34th Week 2024.md"
               }
             }
           },
@@ -172,17 +173,15 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "CALENDER/Aug 34th Week 2024.md"
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,20 +206,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8e4d05fdb4df039c",
+  "active": "141091543637c66f",
   "lastOpenFiles": [
+    "CALENDER/Thu 22-08-2024.md",
+    "CALENDER/Aug 34th Week 2024.md",
+    "Homepage.md",
+    "EFFORTS/CA Research.md",
+    "EFFORTS/Chiplets.md",
+    "EFFORTS/CA Notes.md",
+    "EFFORTS/AMD RDNA.md",
+    "Templates/Daily Template.md",
+    "Templates/Weekly Note.md",
+    "EFFORTS/Given by Naveen.md",
+    "EFFORTS/chiplet packaging.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATLAS/Chapter 4.md",
     "ATLAS/Linear Algebra.md",
-    "Homepage.md",
-    "EFFORTS/CA Research.md",
-    "EFFORTS/CA Notes.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "Mathematics.md",
     "trial/NotesByPrabin",
     "trial",
     "NotesByPrabin",
-    "Templates/Daily Template.md",
     "Templates/Atlas Template.md",
     "Templates",
     "Welcome.md",
@@ -238,13 +244,7 @@
     "ATLAS/SubjectNotes/Cyber Security/Cyber Security.md",
     "ATLAS/SubjectNotes/C PP/C PP.md",
     "ATLAS/SubjectNotes/CS/CS.md",
-    "Important.md",
-    "Databases/Databases.md",
-    "Databases/SubjectNotes.md",
     "Databases",
-    "ATLAS/SubjectNotes/Maths/Linear Algebra/Linear Algebra Notes.md",
-    "ATLAS/Templates/Daily Template.md",
-    "CALENDER/Daily Notes/Fri 16-08-2024.md",
     "ATLAS/Attachements/PNG/flynn's taxonomy 1.png",
     "ATLAS/Attachements/PNG/Pasted image 20240812211330.png",
     "ATLAS/Attachements/PNG/flynn's taxonomy.png",
