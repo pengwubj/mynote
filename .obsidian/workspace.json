@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b849318e157f6369",
+        "id": "fa527b3a4fc08974",
         "type": "tabs",
         "children": [
           {
-            "id": "cae1bfd2536da779",
+            "id": "4ac9fa76947971d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/CPP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a2c44478ab9d28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/08-22-2024 Thursday.md",
-                "mode": "source",
+                "file": "EFFORTS/AMD RDNA.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATLAS/08-22-2024 Thursday.md",
+                "file": "EFFORTS/AMD RDNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATLAS/08-22-2024 Thursday.md",
+                "file": "EFFORTS/AMD RDNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ATLAS/08-22-2024 Thursday.md"
+                "file": "EFFORTS/AMD RDNA.md"
               }
             }
           },
@@ -187,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ATLAS/08-22-2024 Thursday.md"
+                "file": "EFFORTS/AMD RDNA.md"
               }
             }
           }
@@ -222,18 +208,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4a2c44478ab9d28b",
+  "active": "4ac9fa76947971d4",
   "lastOpenFiles": [
+    "EFFORTS/CA Notes.md",
+    "Homepage.md",
     "ATLAS/CPP.md",
     "ATLAS/08-22-2024 Thursday.md",
-    "Homepage.md",
     "C++.md",
     "Heatmaps.md",
     "CALENDER/Aug 34th Week 2024.md",
     "CALENDER/Thu 22-08-2024.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Chiplets.md",
-    "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
     "Templates/Daily Template.md",
     "Templates/Weekly Note.md",
