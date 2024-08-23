@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0aedc706f6f4bf",
+        "id": "e8a5ec978b56d507",
         "type": "tabs",
         "children": [
           {
-            "id": "d879cd9013bc4595",
+            "id": "a531d756b6e0a034",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,7 +208,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d879cd9013bc4595",
+  "active": "a531d756b6e0a034",
   "lastOpenFiles": [
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/CA Notes.md",
