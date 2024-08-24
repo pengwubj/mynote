@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8a5ec978b56d507",
+        "id": "f3606df93916e5be",
         "type": "tabs",
         "children": [
           {
-            "id": "a531d756b6e0a034",
+            "id": "17a50cec93018efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,19 +207,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a531d756b6e0a034",
+  "active": "17a50cec93018efa",
   "lastOpenFiles": [
-    "EFFORTS/AMD RDNA.md",
     "EFFORTS/CA Notes.md",
+    "EFFORTS/AMD RDNA.md",
+    "EFFORTS/L3-Infinity-Cache.md",
+    "EFFORTS/shaders.md",
+    "EFFORTS/bfloat16.md",
     "Homepage.md",
+    "EFFORTS/CA Research.md",
+    "CALENDER/Fri 23-08-2024.md",
+    "EFFORTS/Chiplets.md",
     "ATLAS/CPP.md",
     "ATLAS/08-22-2024 Thursday.md",
     "C++.md",
     "Heatmaps.md",
     "CALENDER/Aug 34th Week 2024.md",
     "CALENDER/Thu 22-08-2024.md",
-    "EFFORTS/CA Research.md",
-    "EFFORTS/Chiplets.md",
     "Templates/Daily Template.md",
     "Templates/Weekly Note.md",
     "EFFORTS/Given by Naveen.md",
@@ -242,10 +245,6 @@
     "Untitled/w.md",
     "ATLAS",
     "ATLAS/ATLAS.md",
-    "ATLAS/Templates/FolderNote.md",
-    "ATLAS/SubjectNotes/SubjectNotes.md",
-    "ATLAS/Attachements/Attachements.md",
-    "ATLAS/Templates/_Clipper Template.md",
     "Databases",
     "ATLAS/Attachements/PNG/flynn's taxonomy 1.png",
     "ATLAS/Attachements/PNG/Pasted image 20240812211330.png",

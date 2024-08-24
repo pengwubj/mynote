@@ -13,7 +13,7 @@
   "livePreview": true,
   "propertiesInDocument": "hidden",
   "readableLineLength": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",
