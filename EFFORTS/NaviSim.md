@@ -7,3 +7,10 @@
 6) HBM
 7) GDDR
 8) Daisen GPU visualization framework
+9) photolithography technology
+
+
+---
+
+# Tasks
+- [ ] Go through the RDNA Whitepaper.
