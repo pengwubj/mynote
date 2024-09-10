@@ -20,7 +20,25 @@
 15. Multi2Sim
 16. GPGPUSim
 ---
+# Architectures
+## Compute Unit on a GPU 
+- responsible for instruction execution and data processing
+-  1 Scheduler
+  can fetch and issue instructions for up to 40 wavefronts.
+  40 wavefront handling
+	- decode 5 instruction
+	  and issue to 5 execution units
+		- 1 branch unit 
+		- 1 scalar unit(executes instruction manipulating data shared by work-items in a wavefront)
+		- 1 LDS(Local Data Share)
+		- 1 vector memory unit 
+		- 4 SIMD unit 
+- 1 SIMD unit 
+	- responsible for executing vectorized floating-point instruction for 10 out 40 wavefronts
+	- contains 16 single-precision ALUs
+	- => 64-work-item wavefront takes 4 cycles to finish
 
+---
 # Tasks
 
 - [ ] Go through the RDNA Whitepaper.
