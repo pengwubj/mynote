@@ -8,3 +8,7 @@ tags:
 
 1. [[Given by Naveen]]  
 2. [[Chiplets]]
+
+## Notes
+
+1. [[NaviSim]] : Simulator for RDNA

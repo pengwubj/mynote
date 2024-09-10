@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           }
@@ -210,22 +210,23 @@
   },
   "active": "6de2f6e46e602f02",
   "lastOpenFiles": [
+    "EFFORTS/CA Research.md",
+    "EFFORTS/NaviSim.md",
+    "EFFORTS/Efforts.md",
+    "EFFORTS/CA Notes.md",
+    "Homepage.md",
     "EFFORTS/Binary Search.canvas",
     "EFFORTS/Leetcode.md",
-    "EFFORTS/Efforts.md",
-    "Homepage.md",
     "Templates/Canva Left Align.md",
     "Templates/Canva Right Align.md",
     "Templates/Canva Center Align.md",
     "EFFORTS/Untitled.md",
     "ATLAS/Atlas.md",
     "ATLAS/Real Analyis.md",
-    "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/L3-Infinity-Cache.md",
     "EFFORTS/shaders.md",
     "EFFORTS/bfloat16.md",
-    "EFFORTS/CA Research.md",
     "CALENDER/Fri 23-08-2024.md",
     "EFFORTS/Chiplets.md",
     "ATLAS/CPP.md",
