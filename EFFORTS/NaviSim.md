@@ -16,7 +16,9 @@
 13. Thread divergence
     > -  is a phenomenon that occurs in parallel computing when different threads in a warp take different paths through the code.
     >   -  happens when a thread encounters a conditional statement and the condition evaluates to different values for different threads.
-14. 
+14. What is a Kenel in GPUs?
+15. Multi2Sim
+16. GPGPUSim
 ---
 
 # Tasks
