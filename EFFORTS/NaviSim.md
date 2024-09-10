@@ -12,7 +12,8 @@
 10. Barriers in work-groups in GPUs.
 11. What are work-items, work-groups, wavefront?
 12. Lock-step execution
-
+13. Thread divergence
+14. 
 ---
 
 # Tasks
