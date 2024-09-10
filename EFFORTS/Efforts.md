@@ -3,3 +3,6 @@
 > [!abstract] `ris:Computer` Architecture  
 > [[CA Research|Research]]  
 > [[CA Notes|Notes]]
+
+> [! important] coding `fas:Brain`  
+> [[Leetcode]]

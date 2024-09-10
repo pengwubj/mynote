@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "195dcaf337280e76",
+        "id": "a42b8f61599451b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f78abf6049ff09f5",
+            "id": "6de2f6e46e602f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "right": {
     "id": "43fc27400badb105",
@@ -207,12 +208,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f78abf6049ff09f5",
+  "active": "6de2f6e46e602f02",
   "lastOpenFiles": [
-    "ATLAS/Real Analyis.md",
-    "Atlas.md",
+    "EFFORTS/Binary Search.canvas",
+    "EFFORTS/Leetcode.md",
+    "EFFORTS/Efforts.md",
     "Homepage.md",
-    "Efforts.md",
+    "Templates/Canva Left Align.md",
+    "Templates/Canva Right Align.md",
+    "Templates/Canva Center Align.md",
+    "EFFORTS/Untitled.md",
+    "ATLAS/Atlas.md",
+    "ATLAS/Real Analyis.md",
     "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/L3-Infinity-Cache.md",
@@ -229,17 +236,11 @@
     "CALENDER/Thu 22-08-2024.md",
     "Templates/Daily Template.md",
     "Templates/Weekly Note.md",
-    "EFFORTS/Given by Naveen.md",
-    "EFFORTS/chiplet packaging.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
-    "ATLAS/Chapter 4.md",
-    "ATLAS/Linear Algebra.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
-    "Mathematics.md",
     "trial/NotesByPrabin",
     "trial",
     "NotesByPrabin",
-    "Templates/Atlas Template.md",
     "Templates",
     "ATTACHMENTS",
     "EFFORTS",
