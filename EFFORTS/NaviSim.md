@@ -26,8 +26,20 @@
 ---
 
 # Architectures
-
-## Compute Unit on a Gpu
+## GCN3 architecture `fas:Microchip`
+### Cache `fas:ShippingFast`
+- two-level cache hierarchy.
+- L1
+	- L1 scalar cache
+	  used for storing constant data, such as kernel arguments and pointers.
+	- L1 instruction cache
+	- L1 vector cache
+	  write-through cache that stores most of the data
+	  Each CU has a dedicated one.
+	- L1 scalar and instruction cache are shared
+	  among CUs in shader array(typically 4 CUs)
+- L1 `rir:ArrowLeftS` L2(write-back caches) `rir:ArrowLeftS` DRAM (HBM or GDDR)
+### Compute Unit on a Gpu
 
 - responsible for instruction execution and data processing
 - 1 Scheduler  
