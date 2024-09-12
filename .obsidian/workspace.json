@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
+                "file": "EFFORTS/NaviSim.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           }
@@ -210,12 +210,15 @@
   },
   "active": "80c5ae874d2a5d8f",
   "lastOpenFiles": [
-    "EFFORTS/NaviSim.md",
+    "ATTACHMENTS/Pasted image 20240912204038.png",
+    "ATTACHMENTS/Pasted image 20240912203931.png",
+    "ATTACHMENTS/Pasted image 20240912203601.png",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
+    "Homepage.md",
+    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
-    "Homepage.md",
     "EFFORTS/Binary Search.canvas",
     "EFFORTS/Leetcode.md",
     "Templates/Canva Left Align.md",
@@ -236,7 +239,6 @@
     "CALENDER/Aug 34th Week 2024.md",
     "CALENDER/Thu 22-08-2024.md",
     "Templates/Daily Template.md",
-    "Templates/Weekly Note.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",
@@ -258,8 +260,6 @@
     "!HOME.canvas",
     "Untitled.canvas",
     "ATLAS/SubjectNotes/C PP/Untitled.canvas",
-    "ATLAS/Attachements/PNG/Pasted image 20240804111843.png",
-    "ATLAS/Attachements/PNG/Pasted image 20240602163417.png",
     "EFFORTS/CS-COD Assignments/CS-COD Assignments.canvas",
     "EFFORTS/!ABAW/!ABAW.canvas",
     "ATLAS/SubjectNotes/C PP/C PP.canvas",
