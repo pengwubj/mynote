@@ -31,7 +31,7 @@
 
 # Architectures
 
-## Gcn3 Architecture `fas:Microchip`
+## GCN3 Architecture (Graphics Core Next) `fas:Microchip`
 
 ### Cache `fas:ShippingFast`
 
@@ -47,12 +47,19 @@
 	  among CUs in shader array(typically 4 CUs)
 - L1 `rir:ArrowLeftS` L2(write-back caches) `rir:ArrowLeftS` DRAM (HBM or GDDR)
 - Both the L2 caches and DRAM controllers are banked
+
 #### Drawback
+
 L1 and L2 caches are crossbar connected.
+
 - Though it provides low latency and high-throughput
 - the design struggles to scale with the increase in the no. of CUs.
 
-### Compute Unit on a Gpu
+## RDNA Architecture (Radeon DNA)
+
+Designed to replace GCN for better scalability.
+
+## Compute Unit on a Gpu
 
 - responsible for instruction execution and data processing
 - 1 Scheduler  
