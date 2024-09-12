@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bee85a7b5413bee1",
+        "id": "2f174ad22e43ec76",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dc2fcf10b97514",
+            "id": "731be3d889378bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -208,12 +208,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6dc2fcf10b97514",
+  "active": "731be3d889378bc3",
   "lastOpenFiles": [
+    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
     "Homepage.md",
-    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Notes.md",
     "EFFORTS/Binary Search.canvas",
     "EFFORTS/Leetcode.md",

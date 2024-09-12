@@ -167,7 +167,7 @@
     },
     "unordered-list-style": {
       "enabled": true,
-      "list-style": "-"
+      "list-style": "consistent"
     },
     "compact-yaml": {
       "enabled": true,

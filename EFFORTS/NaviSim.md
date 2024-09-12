@@ -10,35 +10,43 @@
 8. Daisen GPU visualization framework
 9. photolithography technology
 10. Barriers in work-groups in GPUs.
-11. What are work-items, work-groups, wavefront?
-
-	 > WaveFront: Group of threads that are executed simultaneously using SIMD
-
+11. What are work-items, work-groups, wavefront?  
+	 WaveFront: Group of threads that are executed simultaneously using SIMD
 12. Lock-step execution
 13. Thread divergence
-
-	 > - is a phenomenon that occurs in parallel computing when different threads in a warp take different paths through the code.
-	 > - happens when a thread encounters a conditional statement and the condition evaluates to different values for different threads.
-
+	 - is a phenomenon that occurs in parallel computing when different threads in a warp take different paths through the code.
+	 - happens when a thread encounters a conditional statement and the condition evaluates to different values for different threads.
 14. What is a Kenel in GPUs?
 15. Multi2Sim
 16. GPGPUSim
+17. ECC(Error Correction Code)
+	 - Uses hamming code
+	 - Which in turn uses parity bits that are added in between the data bits to generate a ECC code
+	 - Formula for deciding no. of parity bits 'r' is:  
+		2^r > m + r + 1  
+		m : no. of data bits  
+		r : no. of parity bits to add
+
 ---
 
 # Architectures
-## GCN3 architecture `fas:Microchip`
+
+## Gcn3 Architecture `fas:Microchip`
+
 ### Cache `fas:ShippingFast`
+
 - two-level cache hierarchy.
 - L1
-	- L1 scalar cache
+	- L1 scalar cache  
 	  used for storing constant data, such as kernel arguments and pointers.
 	- L1 instruction cache
-	- L1 vector cache
-	  write-through cache that stores most of the data
+	- L1 vector cache  
+	  write-through cache that stores most of the data  
 	  Each CU has a dedicated one.
-	- L1 scalar and instruction cache are shared
+	- L1 scalar and instruction cache are shared  
 	  among CUs in shader array(typically 4 CUs)
 - L1 `rir:ArrowLeftS` L2(write-back caches) `rir:ArrowLeftS` DRAM (HBM or GDDR)
+
 ### Compute Unit on a Gpu
 
 - responsible for instruction execution and data processing
