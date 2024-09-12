@@ -46,6 +46,11 @@
 	- L1 scalar and instruction cache are shared  
 	  among CUs in shader array(typically 4 CUs)
 - L1 `rir:ArrowLeftS` L2(write-back caches) `rir:ArrowLeftS` DRAM (HBM or GDDR)
+- Both the L2 caches and DRAM controllers are banked
+#### Drawback
+L1 and L2 caches are crossbar connected.
+- Though it provides low latency and high-throughput
+- the design struggles to scale with the increase in the no. of CUs.
 
 ### Compute Unit on a Gpu
 

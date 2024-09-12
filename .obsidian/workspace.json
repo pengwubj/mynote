@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           }
@@ -210,11 +210,12 @@
   },
   "active": "731be3d889378bc3",
   "lastOpenFiles": [
-    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
-    "Homepage.md",
     "EFFORTS/CA Notes.md",
+    "EFFORTS/AMD RDNA.md",
+    "Homepage.md",
+    "EFFORTS/NaviSim.md",
     "EFFORTS/Binary Search.canvas",
     "EFFORTS/Leetcode.md",
     "Templates/Canva Left Align.md",
@@ -223,7 +224,6 @@
     "EFFORTS/Untitled.md",
     "ATLAS/Atlas.md",
     "ATLAS/Real Analyis.md",
-    "EFFORTS/AMD RDNA.md",
     "EFFORTS/L3-Infinity-Cache.md",
     "EFFORTS/shaders.md",
     "EFFORTS/bfloat16.md",
