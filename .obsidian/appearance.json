@@ -12,7 +12,6 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "booksearch",
-    "custom-admonitions.c5575a",
-    "defaultimagesize"
+    "custom-admonitions.c5575a"
   ]
 }

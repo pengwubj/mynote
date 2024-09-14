@@ -129,5 +129,7 @@
   "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-filled-lt",
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-blue-lt",
   "aura@@aura-colorshemes-light": "aura-colorschemes-light-notion",
-  "aura@@aura-rainbow-tags": true
+  "aura@@aura-rainbow-tags": true,
+  "aura@@h1-font": "Nimbus Sans",
+  "aura@@h2-font": "C059"
 }
