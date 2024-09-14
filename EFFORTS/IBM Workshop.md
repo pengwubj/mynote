@@ -50,11 +50,13 @@ Combinations of Perceptrons make up a neural Network in DL.
 		- K-means
 		- DBScan
 	- Associate Rule Learning
-		- Aprion
+		- Apriori
 	- Dimensionality Reduction
 - Reinforcement Learning
 
 
 ---
 # Life Lessons
-Don't leave behind Indian Products
+Don't leave behind Indian Products.
+Widened Viewpoint is highly required and necessary.
+PI(Parent Intelligence)is nowhere less than AI.
