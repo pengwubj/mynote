@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/Efforts.md",
+                "file": "EFFORTS/IBM Workshop.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/Efforts.md",
+                "file": "EFFORTS/IBM Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/Efforts.md",
+                "file": "EFFORTS/IBM Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/Efforts.md"
+                "file": "EFFORTS/IBM Workshop.md"
               }
             }
           },
@@ -173,12 +173,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/Efforts.md"
+                "file": "EFFORTS/IBM Workshop.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -210,8 +210,9 @@
   },
   "active": "47baca523ffa362e",
   "lastOpenFiles": [
-    "Homepage.md",
     "EFFORTS/Efforts.md",
+    "EFFORTS/IBM Workshop.md",
+    "Homepage.md",
     "Untitled.md",
     "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
@@ -239,7 +240,6 @@
     "Heatmaps.md",
     "CALENDER/Aug 34th Week 2024.md",
     "CALENDER/Thu 22-08-2024.md",
-    "Templates/Daily Template.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",
