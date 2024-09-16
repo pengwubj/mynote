@@ -38,7 +38,12 @@
 	 - Cache staleness refers to the condition where cached data is considered outdated or expired but is still retained in the cache for potential use.
 	 - caching strategies that aim to improve application performance and reliability by allowing systems to serve stale data when fresh data is unavailable.
 	 - TTL(Time to Live) decides how long the content can be served fresh.
-
+21. AMD clang-ocl compiler
+22. AMD Radeon Open Compute Platform
+23. HIP Kernels
+24. hipcc Compiler
+25. What are kernel binaries?
+26. 
 ---
 ---
 
@@ -139,19 +144,21 @@ Comparing cache latencies between the GCN and RDNA GPUs, while running the point
 ---
 
 # NAVISIM [`ris:Navigation`](https://github.com/autonomousvision/navsim)  
+
 **Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**
+
 ## The Akita Simulation Engine
+
 - is a computer architecture simulator engine that is implemented in the Go programming language.
 - has been used effectively in the MGPUSim simulator.
 - high flexibility and optimized multi-threaded simulation performance.
 - NAVISIM has been implemented independently using the Akita Simulation Engine
 
-
-## RDNA ISA Emulation
-
-
+## NaviSim 
+can use the MGPUSim’s GCN3 instruction emulator as a library.
 
 ---
+
 # Tasks
 
 - [ ] Go through the RDNA Whitepaper.
