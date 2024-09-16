@@ -34,7 +34,8 @@ GPT : Generative PreTrained Transformers
 	6. Transactional Data  
 Combinations of Perceptrons make up a neural Network in DL.  
 
-### Trainings in ML:  
+# Trainings in ML  
+
 - Supervised Learning
 	- Regression
 		- Linear
@@ -54,9 +55,19 @@ Combinations of Perceptrons make up a neural Network in DL.
 	- Dimensionality Reduction
 - Reinforcement Learning
 
+AI ethics:
+
+1. Fairness and Unbiased
+2. Transparency and Explainability
+3. Privacy and Data Protection
+4. Accountability and Responsibility
+5. Human Oversight
 
 ---
+
 # Life Lessons
-Don't leave behind Indian Products.
-Widened Viewpoint is highly required and necessary.
-PI(Parent Intelligence)is nowhere less than AI.
+
+Don't leave behind Indian Products.  
+Widened Viewpoint is highly required and necessary.  
+PI(Parent Intelligence)is nowhere less than AI.  
+History Matters to make Matter Interesting.

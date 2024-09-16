@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53a7cfdeb2b63c5e",
+        "id": "1dc9c16410093a83",
         "type": "tabs",
         "children": [
           {
-            "id": "47baca523ffa362e",
+            "id": "17d2ea585124ffbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/IBM Workshop.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/IBM Workshop.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/IBM Workshop.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/IBM Workshop.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/IBM Workshop.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -208,10 +208,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47baca523ffa362e",
+  "active": "17d2ea585124ffbb",
   "lastOpenFiles": [
-    "EFFORTS/Efforts.md",
     "EFFORTS/IBM Workshop.md",
+    "EFFORTS/Efforts.md",
     "Homepage.md",
     "Untitled.md",
     "EFFORTS/NaviSim.md",
