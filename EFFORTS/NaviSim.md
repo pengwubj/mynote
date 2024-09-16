@@ -28,10 +28,17 @@
 		r : no. of parity bits to added
 18. Use of L1 Instruction cache, Variable cache, Scalar cache.
 19. What are cache Invalidation instructions?
+	 - used to ensure data coherence across different processing units and cache levels.
+	 - explicitly mark cache lines as invalid
+	 - forcing subsequent accesses to fetch the data from a higher level cache or main memory.
+	 - Data Coherence?
+		- refers to the consistency and uniformity of data across different systems and datasets,
+		- ensuring that all instances of shared data reflect the same values and logical relationships.
 20. [[Cache stale]]
 	 - Cache staleness refers to the condition where cached data is considered outdated or expired but is still retained in the cache for potential use.
 	 - caching strategies that aim to improve application performance and reliability by allowing systems to serve stale data when fresh data is unavailable.
 	 - TTL(Time to Live) decides how long the content can be served fresh.
+21. 
 
 ---
 
@@ -104,6 +111,11 @@ Designed to replace GCN for better scalability.
 	- Dedicated L0I and L0S caches(read-only) for each DCU.
 	- 1 DCU is connected to 2 L0V caches(write-through)  
 	  => 2 SIMD and 2 Schedulers use 1 L0V.  
+	  - update in 1 L0 may render other as stale
+	    => coherence issues within DCU
+	  - requires explicit cache invalidatio instructions(Not available in GCN ISA)
+4. An Intermediate level of caching
+	- new write-evict L1 cache
 ![[Pasted image 20240916145901.png]]  
 
 Comparing cache latencies between the GCN and RDNA GPUs, while running the pointer chasing microbenchmark. The results suggest that, other than the publicly announced changes in the specifications (e.g., cache sizes), AMD has made many unannounced design improvements (e.g., reducing cache latencies).
