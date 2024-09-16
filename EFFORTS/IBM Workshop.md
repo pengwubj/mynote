@@ -34,6 +34,8 @@ GPT : Generative PreTrained Transformers
 	6. Transactional Data  
 Combinations of Perceptrons make up a neural Network in DL.  
 
+---
+
 # Trainings in ML  
 
 - Supervised Learning
