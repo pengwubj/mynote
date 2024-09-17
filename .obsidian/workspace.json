@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc9c16410093a83",
+        "id": "345a2d8544afdf08",
         "type": "tabs",
         "children": [
           {
-            "id": "17d2ea585124ffbb",
+            "id": "f30172dddfcc2deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "EFFORTS/Efforts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "EFFORTS/Efforts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "EFFORTS/Efforts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "EFFORTS/Efforts.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "EFFORTS/Efforts.md"
               }
             }
           }
@@ -208,10 +208,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "17d2ea585124ffbb",
+  "active": "f30172dddfcc2deb",
   "lastOpenFiles": [
-    "EFFORTS/Cache stale.md",
+    "Homepage.md",
     "EFFORTS/NaviSim.md",
+    "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
     "EFFORTS/CA Research.md",
@@ -219,7 +220,6 @@
     "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/IBM Workshop.md",
-    "Homepage.md",
     "Untitled.md",
     "ATTACHMENTS/Pasted image 20240912204038.png",
     "ATTACHMENTS/Pasted image 20240912203931.png",

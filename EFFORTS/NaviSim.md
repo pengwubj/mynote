@@ -43,7 +43,6 @@
 23. HIP Kernels
 24. hipcc Compiler
 25. What are kernel binaries?
-26. 
 ---
 ---
 
@@ -154,7 +153,8 @@ Comparing cache latencies between the GCN and RDNA GPUs, while running the point
 - high flexibility and optimized multi-threaded simulation performance.
 - NAVISIM has been implemented independently using the Akita Simulation Engine
 
-## NaviSim 
+## NaviSim
+
 can use the MGPUSim’s GCN3 instruction emulator as a library.
 
 ---
