@@ -43,6 +43,9 @@
 23. HIP Kernels
 24. hipcc Compiler
 25. What are kernel binaries?
+26. What are OpenCL and HIP kernels?
+27. AMD ROCm platform?
+28. What is Wavefront Dispatching?
 ---
 ---
 
@@ -155,7 +158,24 @@ Comparing cache latencies between the GCN and RDNA GPUs, while running the point
 
 ## NaviSim
 
-can use the MGPUSim’s GCN3 instruction emulator as a library.
+- can use the MGPUSim’s GCN3 instruction emulator as a library.
+- virtual drive of NaviSim allows to configure which ISA to emulate
+	- and load the corresponding GCN3/RDNA kernel binaries.
+- Two modes:-
+	- emulation mode
+		- can recreate execution results
+		- runs much faster
+	- timing simulation
+		- evaluates detailed timing information
+	- the emulation results of the benchmarks, of both modes, exactly match output of applications run on real GPU. 
+- supports both OpenCL and HIP programming language kernels
+	- OpenCL compiled by AMD official clang-ocl compiler
+	- HIP kernels with hipcc compiler
+		- -genco argument makes hipcc produce only kernel binaries
+	- both compilers ships with the AMD ROCm platform
+### Wavefront Dispatching
+The Command Processor maintains resource masks
+ - that keep track of which resources are occupied in each CU/DCU
 
 ---
 
