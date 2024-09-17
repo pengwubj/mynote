@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/Efforts.md",
+                "file": "EFFORTS/NaviSim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/Efforts.md",
+                "file": "EFFORTS/NaviSim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/Efforts.md",
+                "file": "EFFORTS/NaviSim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/Efforts.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/Efforts.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           }
@@ -210,13 +210,13 @@
   },
   "active": "f30172dddfcc2deb",
   "lastOpenFiles": [
+    "EFFORTS/CA Research.md",
+    "EFFORTS/Efforts.md",
     "Homepage.md",
     "EFFORTS/NaviSim.md",
     "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
-    "EFFORTS/CA Research.md",
-    "EFFORTS/Efforts.md",
     "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/IBM Workshop.md",
