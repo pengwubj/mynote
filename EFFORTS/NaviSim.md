@@ -167,14 +167,17 @@ Comparing cache latencies between the GCN and RDNA GPUs, while running the point
 		- runs much faster
 	- timing simulation
 		- evaluates detailed timing information
-	- the emulation results of the benchmarks, of both modes, exactly match output of applications run on real GPU. 
+	- the emulation results of the benchmarks, of both modes, exactly match output of applications run on real GPU.
 - supports both OpenCL and HIP programming language kernels
 	- OpenCL compiled by AMD official clang-ocl compiler
 	- HIP kernels with hipcc compiler
 		- -genco argument makes hipcc produce only kernel binaries
 	- both compilers ships with the AMD ROCm platform
+
 ### Wavefront Dispatching
+
 The Command Processor maintains resource masks
+
  - that keep track of which resources are occupied in each CU/DCU
 
 ---

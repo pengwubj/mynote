@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "345a2d8544afdf08",
+        "id": "28715af3fda4bd91",
         "type": "tabs",
         "children": [
           {
-            "id": "f30172dddfcc2deb",
+            "id": "c600dd30cfa897cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -208,12 +208,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f30172dddfcc2deb",
+  "active": "c600dd30cfa897cd",
   "lastOpenFiles": [
+    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
     "Homepage.md",
-    "EFFORTS/NaviSim.md",
     "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
