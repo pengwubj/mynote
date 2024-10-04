@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28715af3fda4bd91",
+        "id": "b89265a72b01c6eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c600dd30cfa897cd",
+            "id": "f2a51ab43ba2e3c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,12 +208,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c600dd30cfa897cd",
+  "active": "f2a51ab43ba2e3c7",
   "lastOpenFiles": [
+    "CALENDER/Fri 04-10-2024.md",
+    "Homepage.md",
     "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
-    "Homepage.md",
     "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
@@ -241,7 +242,6 @@
     "ATLAS/08-22-2024 Thursday.md",
     "C++.md",
     "Heatmaps.md",
-    "CALENDER/Aug 34th Week 2024.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",
