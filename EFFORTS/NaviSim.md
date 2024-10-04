@@ -174,11 +174,12 @@ Comparing cache latencies between the GCN and RDNA GPUs, while running the point
 		- -genco argument makes hipcc produce only kernel binaries
 	- both compilers ships with the AMD ROCm platform
 
-### Wavefront Dispatching
+### Wavefront Dispatching (Complete This)
 
 The Command Processor maintains resource masks
 
  - that keep track of which resources are occupied in each CU/DCU
+>[!note] 
 
 ---
 

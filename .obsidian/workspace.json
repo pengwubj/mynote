@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/NaviSim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "EFFORTS/NaviSim.md"
               }
             }
           }
@@ -210,15 +210,16 @@
   },
   "active": "f2a51ab43ba2e3c7",
   "lastOpenFiles": [
-    "CALENDER/Fri 04-10-2024.md",
-    "Homepage.md",
-    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
+    "EFFORTS/CA Notes.md",
+    "Homepage.md",
+    "ATLAS/Atlas.md",
+    "CALENDER/Fri 04-10-2024.md",
+    "EFFORTS/NaviSim.md",
     "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
-    "EFFORTS/CA Notes.md",
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/IBM Workshop.md",
     "Untitled.md",
@@ -231,7 +232,6 @@
     "Templates/Canva Right Align.md",
     "Templates/Canva Center Align.md",
     "EFFORTS/Untitled.md",
-    "ATLAS/Atlas.md",
     "ATLAS/Real Analyis.md",
     "EFFORTS/L3-Infinity-Cache.md",
     "EFFORTS/shaders.md",
