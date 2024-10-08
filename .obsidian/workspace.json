@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b89265a72b01c6eb",
+        "id": "a8a18e53c8b3f82f",
         "type": "tabs",
         "children": [
           {
-            "id": "f2a51ab43ba2e3c7",
+            "id": "6ee8f4ea2f91920c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EFFORTS/NaviSim.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EFFORTS/NaviSim.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -208,15 +208,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2a51ab43ba2e3c7",
+  "active": "6ee8f4ea2f91920c",
   "lastOpenFiles": [
+    "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
     "EFFORTS/CA Notes.md",
     "Homepage.md",
     "ATLAS/Atlas.md",
     "CALENDER/Fri 04-10-2024.md",
-    "EFFORTS/NaviSim.md",
     "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",

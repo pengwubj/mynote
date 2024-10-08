@@ -179,7 +179,8 @@ Comparing cache latencies between the GCN and RDNA GPUs, while running the point
 The Command Processor maintains resource masks
 
  - that keep track of which resources are occupied in each CU/DCU
->[!note] 
+
+> [!note]
 
 ---
 
