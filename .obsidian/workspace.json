@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf9df12d004b3fe0",
+        "id": "0ddef274d5a4b39e",
         "type": "tabs",
         "children": [
           {
-            "id": "41eed28ef4749852",
+            "id": "e2cdca6fb532b1db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "right": {
     "id": "43fc27400badb105",
@@ -208,13 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "41eed28ef4749852",
+  "active": "e2cdca6fb532b1db",
   "lastOpenFiles": [
     "ATLAS/Atlas.md",
     "Homepage.md",
+    "EFFORTS/Efforts.md",
+    "ATLAS/CPP.md",
     "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
-    "EFFORTS/Efforts.md",
     "EFFORTS/CA Notes.md",
     "CALENDER/Fri 04-10-2024.md",
     "EFFORTS/Cache stale.md",
@@ -238,7 +238,6 @@
     "EFFORTS/bfloat16.md",
     "CALENDER/Fri 23-08-2024.md",
     "EFFORTS/Chiplets.md",
-    "ATLAS/CPP.md",
     "ATLAS/08-22-2024 Thursday.md",
     "C++.md",
     "Heatmaps.md",
