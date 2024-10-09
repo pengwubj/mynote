@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a18e53c8b3f82f",
+        "id": "cf9df12d004b3fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee8f4ea2f91920c",
+            "id": "41eed28ef4749852",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,14 +208,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ee8f4ea2f91920c",
+  "active": "41eed28ef4749852",
   "lastOpenFiles": [
+    "ATLAS/Atlas.md",
+    "Homepage.md",
     "EFFORTS/NaviSim.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Efforts.md",
     "EFFORTS/CA Notes.md",
-    "Homepage.md",
-    "ATLAS/Atlas.md",
     "CALENDER/Fri 04-10-2024.md",
     "EFFORTS/Cache stale.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
