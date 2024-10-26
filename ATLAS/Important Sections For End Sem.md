@@ -14,4 +14,4 @@
 13. mean value theorem
 14. Jacobian Theorem
 15. partial derivative and total derivative(indirect questions)
-16. surjective and injective theorem 
+16. surjective and injective theorem
