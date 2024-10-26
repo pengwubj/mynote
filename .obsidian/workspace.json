@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2cdca6fb532b1db",
+            "id": "54897a763e7ea229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "ATLAS/Important Sections For End Sem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Important Sections For End Sem"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "ATLAS/Important Sections For End Sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homepage"
+              "title": "Backlinks for Important Sections For End Sem"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "ATLAS/Important Sections For End Sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Homepage"
+              "title": "Outgoing links from Important Sections For End Sem"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "ATLAS/Important Sections For End Sem.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of Important Sections For End Sem"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homepage.md"
+                "file": "ATLAS/Important Sections For End Sem.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "File properties for Important Sections For End Sem"
             }
           }
         ],
@@ -232,10 +232,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e2cdca6fb532b1db",
+  "active": "54897a763e7ea229",
   "lastOpenFiles": [
+    "ATLAS/Real Analyis.md",
+    "ATLAS/Important Sections For End Sem.md",
     "ATLAS/Atlas.md",
     "Homepage.md",
+    "ATLAS/Chapter 4.md",
+    "ATLAS/Linear Algebra.md",
     "EFFORTS/Efforts.md",
     "ATLAS/CPP.md",
     "EFFORTS/NaviSim.md",
@@ -257,15 +261,11 @@
     "Templates/Canva Right Align.md",
     "Templates/Canva Center Align.md",
     "EFFORTS/Untitled.md",
-    "ATLAS/Real Analyis.md",
     "EFFORTS/L3-Infinity-Cache.md",
     "EFFORTS/shaders.md",
     "EFFORTS/bfloat16.md",
     "CALENDER/Fri 23-08-2024.md",
     "EFFORTS/Chiplets.md",
-    "ATLAS/08-22-2024 Thursday.md",
-    "C++.md",
-    "Heatmaps.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",

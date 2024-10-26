@@ -1,5 +1,7 @@
 # Notes
 
+[[Important Sections For End Sem]]
+
 ---
 
 # Tasks to Do
