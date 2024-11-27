@@ -8,6 +8,7 @@ tags:
 
 1. [[Given by Naveen]]  
 2. [[Chiplets]]
+3. [[TPU - Tensor Processing Units]]
 
 ## Notes
 

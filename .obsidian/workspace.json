@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "b2bfd5e3e800cb23",
+            "id": "fe92d73d0cb23bed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/Survey and Benchmarking of Machine Learning Accelerators.md",
+                "file": "EFFORTS/TPU - Tensor Processing Units.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Survey and Benchmarking of Machine Learning Accelerators"
+              "title": "TPU - Tensor Processing Units"
             }
           }
         ],
@@ -249,10 +249,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2bfd5e3e800cb23",
+  "active": "fe92d73d0cb23bed",
   "lastOpenFiles": [
-    "EFFORTS/CA Research.md",
     "EFFORTS/Survey and Benchmarking of Machine Learning Accelerators.md",
+    "EFFORTS/TPU - Tensor Processing Units.md",
+    "EFFORTS/CA Research.md",
     "EFFORTS/Chiplets.md",
     "EFFORTS/Given by Naveen.md",
     "EFFORTS/Efforts.md",
@@ -282,7 +283,6 @@
     "Templates/Canva Center Align.md",
     "EFFORTS/Untitled.md",
     "EFFORTS/L3-Infinity-Cache.md",
-    "EFFORTS/shaders.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",
