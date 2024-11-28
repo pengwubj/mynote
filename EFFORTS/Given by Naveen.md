@@ -2,6 +2,8 @@
 
 [https://arxiv.org/pdf/1908.11348](https://arxiv.org/pdf/1908.11348)   - A good survey paper to begin with . Survey papers give you a good breadth and compile years of technological advancements
 
+- [[Notes of Survey and Benchmarking of Machine Learning Accelerators]]
+
 [https://arxiv.org/pdf/2210.04055](https://arxiv.org/pdf/2210.04055)  
 
 [https://arxiv.org/pdf/1811.08933](https://arxiv.org/pdf/1811.08933)  -  A paper we can try to replicate the work done here   
