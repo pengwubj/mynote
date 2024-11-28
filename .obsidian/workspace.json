@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/Notes of Survey and Benchmarking of Machine Learning Accelerators.md",
+                "file": "EFFORTS/Given by Naveen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes of Survey and Benchmarking of Machine Learning Accelerators"
+              "title": "Given by Naveen"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "right": {
     "id": "43fc27400badb105",
@@ -235,19 +234,20 @@
   },
   "active": "4ce38f35e17c27dc",
   "lastOpenFiles": [
+    "EFFORTS/Efforts.md",
+    "EFFORTS/CA Research.md",
+    "EFFORTS/CA Notes.md",
+    "Homepage.md",
+    "ATLAS/Atlas.md",
+    "Heatmaps.md",
     "EFFORTS/Given by Naveen.md",
     "EFFORTS/Notes of Survey and Benchmarking of Machine Learning Accelerators.md",
-    "EFFORTS/CA Research.md",
     "EFFORTS/A domain specific Supercomputer for training Deep Neural Network.md",
     "EFFORTS/TPU - Tensor Processing Units.md",
     "EFFORTS/Survey and Benchmarking of Machine Learning Accelerators.md",
     "EFFORTS/Chiplets.md",
-    "EFFORTS/Efforts.md",
-    "EFFORTS/CA Notes.md",
-    "Homepage.md",
     "ATLAS/Important Sections For End Sem.md",
     "ATLAS/Real Analyis.md",
-    "ATLAS/Atlas.md",
     "ATLAS/Chapter 4.md",
     "ATLAS/Linear Algebra.md",
     "ATLAS/CPP.md",
@@ -266,7 +266,6 @@
     "EFFORTS/Leetcode.md",
     "Templates/Canva Left Align.md",
     "Templates/Canva Right Align.md",
-    "Templates/Canva Center Align.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",
