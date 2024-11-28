@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/TPU - Tensor Processing Units.md",
+                "file": "EFFORTS/A domain specific Supercomputer for training Deep Neural Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TPU - Tensor Processing Units"
+              "title": "A domain specific Supercomputer for training Deep Neural Network"
             }
           }
         ],
@@ -251,8 +251,9 @@
   },
   "active": "fe92d73d0cb23bed",
   "lastOpenFiles": [
-    "EFFORTS/Survey and Benchmarking of Machine Learning Accelerators.md",
     "EFFORTS/TPU - Tensor Processing Units.md",
+    "EFFORTS/A domain specific Supercomputer for training Deep Neural Network.md",
+    "EFFORTS/Survey and Benchmarking of Machine Learning Accelerators.md",
     "EFFORTS/CA Research.md",
     "EFFORTS/Chiplets.md",
     "EFFORTS/Given by Naveen.md",
@@ -282,7 +283,6 @@
     "Templates/Canva Right Align.md",
     "Templates/Canva Center Align.md",
     "EFFORTS/Untitled.md",
-    "EFFORTS/L3-Infinity-Cache.md",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).webp",
     "trial/NotesByPrabin",
