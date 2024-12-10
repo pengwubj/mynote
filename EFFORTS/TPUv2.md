@@ -1,4 +1,4 @@
-mailFrom [TheNextPlatform](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2-machine-learning-clusters/)
+From [TheNextPlatform](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2-machine-learning-clusters/)
 
 1. TPU is a coprocessor that connects to a processor motherboard via two PCI-Express 3.0 x8 edge connectors for an aggregate of 16 GB/s of bi-directional bandwidth.
 2. TPU2 performs at a peak of 45 tera floating point operations per second (teraflops), presumably for FP16 operations.
