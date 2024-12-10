@@ -18,7 +18,7 @@
 7. The TPU v6 devices do not support 64-bit or 32-bit floating point math. We are certain that the TPU v6 devices will support INT8 and BF16.
 	 - But there is a chance that lower eight-bit and four-bit floating point formats will also be supported with Trillium.
 8. Guess is that with the TPU v6, Google is going to actually raise the price of renting one of these devices by a little more than a factor of 2X and that the resulting Trillium instances will still offer more than 2.3X better bang for the buck than the TPU v5e instances on Google cloud and 3.4X better price/performance than the TPU v5p. (By [The next Platform](https://www.nextplatform.com/2024/06/10/lots-of-questions-on-googles-trillium-tpu-v6-a-few-answers/))
-   - With TPU v6e, if it exists, the inference cost could be even lower and if there is a TPU v6p the training cost could come down further.
+	- With TPU v6e, if it exists, the inference cost could be even lower and if there is a TPU v6p the training cost could come down further.
 
 > [!note] Double Pumping  
 > **"Double Pumping"** technique suggests an innovative approach to enhance throughput without significantly altering the core architecture. Double pumping typically refers to the ability to process two data inputs in a single clock cycle, effectively doubling the output of the MMU.

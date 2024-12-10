@@ -2,4 +2,9 @@
 
 1. Details for the architectural details and configurations:  
 		[[A domain specific Supercomputer for training Deep Neural Network]]  
-[[Trillium (TPUv6)]]
+
+# Notes
+
+1. [[Trillium (TPUv6)]]  
+2. [[TPUv3]]
+3. [[TPUv2]]
