@@ -15,8 +15,10 @@ From [TheNextPlatform](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2
 > None of these copper cables, BlueLink or OPA, can be run much over 3 meters or 10 feet at maximum signal rate. That binds the interconnect topology linking CPU and TPU2 boards together by a 3m physical spanning distance.
 
 ![[Pasted image 20241209213050.png |Top View of TPU2 board]]  
-**FIg 1** Top View of TPU2 board
+**Fig 1** Top View of TPU2 board
 
-![[Pasted image 20241209213532.png]]  
-![[Pasted image 20241209213544.png]]  
+```image-layout-a
+![[Pasted image 20241209213532.png]]
+![[Pasted image 20241209213544.png]]
+```
 **Fig 2** Point number 9.

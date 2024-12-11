@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d67956a38296dc9c",
+        "id": "4c08dfc69e69a423",
         "type": "tabs",
         "children": [
           {
-            "id": "91e0688b5ad88cc3",
+            "id": "82adb7a635b25934",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "EFFORTS/TPUv2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TPUv2"
             }
           }
         ]
@@ -196,6 +201,16 @@
               "icon": "lucide-info",
               "title": "File properties for Important Sections For End Sem"
             }
+          },
+          {
+            "id": "61717fb560db00e0",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 3
@@ -224,25 +239,30 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "91e0688b5ad88cc3",
+  "active": "82adb7a635b25934",
   "lastOpenFiles": [
+    "EFFORTS/TPU - Tensor Processing Units.md",
+    "EFFORTS/Efforts.md",
+    "EFFORTS/Architecture Laws.md",
+    "EFFORTS/Given by Naveen.md",
+    "Homepage.md",
     "EFFORTS/TPUv2.md",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",
-    "EFFORTS/TPU - Tensor Processing Units.md",
     "EFFORTS/Trillium (TPUv6).md",
     "ATTACHMENTS/Pasted image 20241209203923.png",
-    "EFFORTS/Efforts.md",
-    "EFFORTS/Architecture Laws.md",
     "ATTACHMENTS/Pasted image 20241209202233.png",
     "ATTACHMENTS/Pasted image 20241209201857.png",
     "ATTACHMENTS/Pasted image 20241209185953.png",
-    "EFFORTS/Given by Naveen.md",
-    "Homepage.md",
     "EFFORTS/Computing's Energy Problem.md",
     "EFFORTS/CA Notes.md",
     "EFFORTS/CA Research.md",
