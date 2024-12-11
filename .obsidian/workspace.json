@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "0880141c9de67ade",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "4c08dfc69e69a423",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "82adb7a635b25934",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EFFORTS/TPUv2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TPUv2"
+              "title": "New tab"
             }
           }
         ]
@@ -222,7 +217,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -239,22 +233,22 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "periodic-notes:Open today": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "82adb7a635b25934",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "EFFORTS/TPUv2.md",
     "EFFORTS/TPU - Tensor Processing Units.md",
     "EFFORTS/Efforts.md",
     "EFFORTS/Architecture Laws.md",
     "EFFORTS/Given by Naveen.md",
     "Homepage.md",
-    "EFFORTS/TPUv2.md",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",

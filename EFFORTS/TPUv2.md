@@ -21,4 +21,5 @@ From [TheNextPlatform](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2
 ![[Pasted image 20241209213532.png]]
 ![[Pasted image 20241209213544.png]]
 ```
+
 **Fig 2** Point number 9.
