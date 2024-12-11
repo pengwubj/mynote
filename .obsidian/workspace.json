@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2184ebb2260e823a",
+        "id": "d67956a38296dc9c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b86c9a1b57014ad",
+            "id": "91e0688b5ad88cc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EFFORTS/TPUv2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TPUv2"
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "right": {
     "id": "43fc27400badb105",
@@ -233,13 +227,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b86c9a1b57014ad",
+  "active": "91e0688b5ad88cc3",
   "lastOpenFiles": [
+    "EFFORTS/TPUv2.md",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",
     "EFFORTS/TPU - Tensor Processing Units.md",
-    "EFFORTS/TPUv2.md",
     "EFFORTS/Trillium (TPUv6).md",
     "ATTACHMENTS/Pasted image 20241209203923.png",
     "EFFORTS/Efforts.md",
@@ -270,7 +264,6 @@
     "ATTACHMENTS/Pasted image 20240916145837.png",
     "EFFORTS/AMD RDNA.md",
     "ATTACHMENTS/Pasted image 20240912204038.png",
-    "ATTACHMENTS/Pasted image 20240912203931.png",
     "EFFORTS/Binary Search.canvas",
     "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
     "trial/NotesByPrabin",
