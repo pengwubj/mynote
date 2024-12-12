@@ -11,7 +11,7 @@ From [TheNextPlatform](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2
 8. That gives two choices – either 10 Gb/sec Ethernet or 100 Gb/sec Intel Omni-Path Architecture (OPA). Two 100 Gbps OPA links can be combined for an aggregate bi-directional bandwidth of 25 GB/s, which matches BlueLink speeds, so we think it is Omni-Path.
 9. Google’s TPU2 rack stamp has bilateral symmetry. (See Figure 2)
 
-> [!note]
+> [!note]  
 > A stamp is a standard rack configuration (from half-rack to many racks) for a related set of workloads. Stamps help make purchase, installation, and deployment easier and less costly for large datacenter owners.
 
 > [!important] Distance between TPU and Linking CPU  
