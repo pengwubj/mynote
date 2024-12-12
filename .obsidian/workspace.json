@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EFFORTS/Trillium (TPUv6).md",
+                "file": "EFFORTS/TPUv2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trillium (TPUv6)"
+              "title": "TPUv2"
             }
           }
         ]
@@ -250,9 +250,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "EFFORTS/TPU - Tensor Processing Units.md",
+    "EFFORTS/Trillium (TPUv6).md",
     "EFFORTS/TPUv2.md",
     "EFFORTS/TPUv3.md",
-    "EFFORTS/Trillium (TPUv6).md",
     "EFFORTS/A domain specific Supercomputer for training Deep Neural Network.md",
     "EFFORTS/Efforts.md",
     "Homepage.md",
