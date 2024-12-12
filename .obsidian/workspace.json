@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/Trillium (TPUv6).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Trillium (TPUv6)"
             }
           }
         ]
@@ -249,16 +249,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.md",
-    "EFFORTS/TPUv2.md",
     "EFFORTS/TPU - Tensor Processing Units.md",
+    "EFFORTS/TPUv2.md",
+    "EFFORTS/TPUv3.md",
+    "EFFORTS/Trillium (TPUv6).md",
+    "EFFORTS/A domain specific Supercomputer for training Deep Neural Network.md",
     "EFFORTS/Efforts.md",
+    "Homepage.md",
     "EFFORTS/Architecture Laws.md",
     "EFFORTS/Given by Naveen.md",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",
-    "EFFORTS/Trillium (TPUv6).md",
     "ATTACHMENTS/Pasted image 20241209203923.png",
     "ATTACHMENTS/Pasted image 20241209202233.png",
     "ATTACHMENTS/Pasted image 20241209201857.png",
@@ -269,7 +271,6 @@
     "ATLAS/Atlas.md",
     "Heatmaps.md",
     "EFFORTS/Notes of Survey and Benchmarking of Machine Learning Accelerators.md",
-    "EFFORTS/A domain specific Supercomputer for training Deep Neural Network.md",
     "EFFORTS/Survey and Benchmarking of Machine Learning Accelerators.md",
     "EFFORTS/Chiplets.md",
     "ATLAS/Important Sections For End Sem.md",
