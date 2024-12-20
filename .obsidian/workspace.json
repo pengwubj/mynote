@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CALENDER/Fri 20-12-2024.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fri 20-12-2024"
+              "title": "Homepage"
             }
           }
         ]
@@ -249,8 +249,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.md",
     "CALENDER/Fri 20-12-2024.md",
+    "Homepage.md",
     "EFFORTS/IBM Workshop.md",
     "EFFORTS/Efforts.md",
     "EFFORTS/Leetcode.md",
