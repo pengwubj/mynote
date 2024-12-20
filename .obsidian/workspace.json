@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "CALENDER/Fri 20-12-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Fri 20-12-2024"
             }
           }
         ]
@@ -250,6 +250,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.md",
+    "CALENDER/Fri 20-12-2024.md",
     "EFFORTS/IBM Workshop.md",
     "EFFORTS/Efforts.md",
     "EFFORTS/Leetcode.md",
@@ -282,7 +283,6 @@
     "ATLAS/Chapter 4.md",
     "ATLAS/Linear Algebra.md",
     "ATLAS/CPP.md",
-    "CALENDER/Fri 04-10-2024.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
     "ATTACHMENTS/Pasted image 20240912204038.png",
