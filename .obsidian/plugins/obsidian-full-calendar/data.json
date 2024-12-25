@@ -1,5 +1,11 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "dailynote",
+      "color": "rgb(189, 147, 249)",
+      "heading": "Tasks"
+    }
+  ],
   "defaultCalendar": 0,
   "firstDay": 1,
   "initialView": {
