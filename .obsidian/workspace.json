@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "ProofReading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "ProofReading"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "right": {
     "id": "43fc27400badb105",
@@ -248,8 +249,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ProofReading.md",
     "Homepage.md",
+    "ProofReading.md",
     "CALENDER/Dec 52nd Week 2024.md",
     "CALENDER/Aug 34th Week 2024.md",
     "Templates/Weekly Note.md",
