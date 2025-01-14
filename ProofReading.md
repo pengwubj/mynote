@@ -14,3 +14,9 @@
 	7. memorable one .(remove space before .)
 3. 11:
 	1. Is the Super Over story real?(The super over was a tie I think)
+4. 17:
+	1. Gyalchen Tamang receiving a through-ball and slotting home a second goal.(comma after home)
+5. 19:
+	1. Right-hand man (may not suit our Institutes style) 
+6. 21:
+	1. Dharma came with a plan, and they were (this sentence is not complete).
