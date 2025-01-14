@@ -52,3 +52,5 @@
 	2. sttrategy(spelling, 3rd line)
 18. 65:
 	1. who claimed the third position The postgraduate (. after position)
+19. 105:
+	1.  UG students.How different (space after .)
