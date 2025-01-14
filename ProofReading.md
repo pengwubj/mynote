@@ -45,3 +45,10 @@
 15. 53:
 	1. Running towards … (end with .)
 	2. camaraderie among all participants.This ultranarathon(space after . and ultranarathon spelling check)
+16. 59:
+	1. Amargith (spelling).
+17. 61:
+	1.  Winners don't fall ... (end with .)
+	2. sttrategy(spelling, 3rd line)
+18. 65:
+	1. who claimed the third position The postgraduate (. after position)
