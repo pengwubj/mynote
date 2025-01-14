@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProofReading.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProofReading"
+              "title": "Homepage"
             }
           }
         ]
@@ -249,8 +249,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.md",
     "ProofReading.md",
+    "Homepage.md",
     "CALENDER/Dec 52nd Week 2024.md",
     "CALENDER/Aug 34th Week 2024.md",
     "Templates/Weekly Note.md",
