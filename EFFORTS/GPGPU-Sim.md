@@ -1,4 +1,3 @@
-
 # Introduction
 
 - GPGPU-Sim was created by <mark style="background: #FFF3A3A6;">Tor Aamodt's</mark> research group at the University of British Columbia.
