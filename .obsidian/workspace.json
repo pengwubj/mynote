@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/GPGPU-Sim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "GPGPU-Sim"
             }
           }
         ]
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 471.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,16 +245,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "EFFORTS/Simulators.md",
+    "EFFORTS/Efforts.md",
+    "Homepage.md",
     "CALENDER/Wed 15-01-2025.md",
     "Heatmaps.md",
-    "Homepage.md",
     "ProofReading.md",
     "Untitled.md",
     "EFFORTS/GPUWattch.md",
-    "EFFORTS/Simulators.md",
     "EFFORTS/GPGPU-Sim.md",
     "EFFORTS/TPTPUSim.md",
-    "EFFORTS/Efforts.md",
     "ATLAS/Atlas.md",
     "CALENDER/Dec 52nd Week 2024.md",
     "CALENDER/Aug 34th Week 2024.md",
