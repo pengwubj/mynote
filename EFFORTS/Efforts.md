@@ -5,7 +5,8 @@
 > [[CA Notes|Notes]]  
 > [[TPU - Tensor Processing Units]]  
 > [[Given by Naveen]]  
-> [[Architecture Laws]]
+> [[Architecture Laws]]  
+> [[Simulators]]
 
 > [! important] coding `fas:Brain`  
 > [[Leetcode]]  

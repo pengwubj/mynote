@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/GPGPU-Sim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "GPGPU-Sim"
             }
           }
         ]
@@ -249,7 +249,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "EFFORTS/Simulators.md",
+    "EFFORTS/GPGPU-Sim.md",
+    "EFFORTS/TPTPUSim.md",
+    "EFFORTS/Efforts.md",
     "Homepage.md",
+    "ATLAS/Atlas.md",
     "ProofReading.md",
     "CALENDER/Dec 52nd Week 2024.md",
     "CALENDER/Aug 34th Week 2024.md",
@@ -257,10 +262,7 @@
     "CALENDER/Fri 20-12-2024.md",
     "CALENDER/Sun 22-12-2024.md",
     "CALENDER/Sat 21-12-2024.md",
-    "EFFORTS/Simulators.md",
     "EFFORTS/TPU - Tensor Processing Units.md",
-    "EFFORTS/Efforts.md",
-    "ATLAS/Atlas.md",
     "EFFORTS/IBM Workshop.md",
     "EFFORTS/Leetcode.md",
     "EFFORTS/Binary Search.canvas",
@@ -281,8 +283,6 @@
     "ATTACHMENTS/Pasted image 20241209202233.png",
     "ATTACHMENTS/Pasted image 20241209201857.png",
     "ATTACHMENTS/Pasted image 20241209185953.png",
-    "EFFORTS/Computing's Energy Problem.md",
-    "EFFORTS/CA Notes.md",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
     "ATTACHMENTS/Pasted image 20240912204038.png",

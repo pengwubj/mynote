@@ -12,7 +12,7 @@
   "obsidian-prism-theme@@radius-m": 8,
   "obsidian-prism-theme@@radius-s": 4,
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-orange-dt",
-  "aura@@cpt-accent": "var(--cpt-purple)",
+  "aura@@cpt-accent": "var(--cpt-yellow)",
   "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-dracula",
   "aura@@aura-active-line": "aura-no-highlight",
   "aura@@aura-disable-borders": false,
@@ -128,7 +128,7 @@
   "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
   "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-filled-lt",
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-blue-lt",
-  "aura@@aura-colorshemes-light": "aura-colorschemes-light-notion",
+  "aura@@aura-colorshemes-light": "aura-colorschemes-light-tokyonight",
   "aura@@aura-rainbow-tags": true,
   "aura@@h1-font": "Nimbus Sans",
   "aura@@h2-font": "C059"
