@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "right": {
     "id": "43fc27400badb105",
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ATLAS/Important Sections For End Sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Important Sections For End Sem"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ATLAS/Important Sections For End Sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Important Sections For End Sem"
+              "title": "Outgoing links"
             }
           },
           {
@@ -195,11 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "CALENDER/Dec 52nd Week 2024.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Dec 52nd Week 2024"
+              "title": "File properties"
             }
           },
           {
@@ -213,12 +210,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,10 +244,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CALENDER/Wed 15-01-2025.md",
+    "Heatmaps.md",
     "Homepage.md",
     "ProofReading.md",
-    "Heatmaps.md",
+    "Untitled.md",
     "EFFORTS/GPUWattch.md",
     "EFFORTS/Simulators.md",
     "EFFORTS/GPGPU-Sim.md",
@@ -274,7 +271,6 @@
     "EFFORTS/Chiplets.md",
     "EFFORTS/Given by Naveen.md",
     "EFFORTS/TPUv2.md",
-    "EFFORTS/Trillium (TPUv6).md",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",

@@ -7,7 +7,7 @@
   "endLabel": "All done",
   "startHour": 6,
   "timelineDateFormat": "ddd DD-MM-YYYY",
-  "centerNeedle": false,
+  "centerNeedle": true,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 1,
   "timelineColored": true,
@@ -41,7 +41,7 @@
   "sortTasksInPlanAfterEdit": false,
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
-  "showTimeTracker": false,
+  "showTimeTracker": true,
   "editMode": "simple",
   "copyOnDrag": false
 }

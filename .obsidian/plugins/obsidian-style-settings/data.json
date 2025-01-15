@@ -19,12 +19,11 @@
   "aura@@aura-layout-select": "aura-card-layout",
   "aura@@aura-card-shadows": false,
   "aura@@tab-options": "aura-origin-tabs-default",
-  "aura@@aura-workspace-background": false,
   "aura@@aura-rainbow-folders": true,
   "aura@@aura-colorful-frame": true,
-  "aura@@aura-floating-status-bar": false,
+  "aura@@aura-floating-status-bar": true,
   "aura@@aura-floating-titlebar": true,
-  "aura@@aura-hide-status-bar": true,
+  "aura@@aura-hide-status-bar": false,
   "aura@@aura-scrollbar-toggle": true,
   "aura@@aura-toggle-metadata": false,
   "aura@@aura-tooltip-toggle": false,
@@ -131,5 +130,8 @@
   "aura@@aura-colorshemes-light": "aura-colorschemes-light-solarized",
   "aura@@aura-rainbow-tags": true,
   "aura@@h1-font": "Nimbus Sans",
-  "aura@@h2-font": "C059"
+  "aura@@h2-font": "C059",
+  "aura@@aura-workspace-background-workspace-slider-light": 1,
+  "aura@@aura-file-icons": true,
+  "aura@@aura-folder-icons": true
 }

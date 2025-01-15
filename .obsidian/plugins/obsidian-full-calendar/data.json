@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "dailynote",
-      "color": "rgb(189, 147, 249)",
+      "color": "#000000",
       "heading": "Tasks"
     }
   ],
