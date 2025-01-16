@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "right": {
     "id": "43fc27400badb105",
@@ -222,6 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Google Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
