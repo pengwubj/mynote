@@ -6,13 +6,8 @@
       "heading": "Tasks"
     },
     {
-      "type": "ical",
-      "color": "#09ebfb",
-      "url": "https://calendar.google.com/calendar/ical/prabinkusabat%40gmail.com/public/basic.ics"
-    },
-    {
       "type": "local",
-      "color": "rgb(108, 113, 196)",
+      "color": "#1a90ff",
       "directory": "CALENDER"
     }
   ],

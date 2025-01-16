@@ -9,6 +9,11 @@
     "Completed": "checkbox",
     "RATING": "number",
     "total": "number",
-    "Intrested": "number"
+    "Intrested": "number",
+    "Suprabhatam": "checkbox",
+    "Jogging": "checkbox",
+    "Mandir": "checkbox",
+    "Night Lab": "checkbox",
+    "Project Work": "checkbox"
   }
 }

@@ -1,3 +1,11 @@
+---
+Suprabhatam: false
+Jogging: 
+Mandir: 
+Night Lab: 
+Project Work:
+---
+
 # How's the 🌄🌅🌇?
 
 ---

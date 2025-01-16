@@ -28,12 +28,13 @@
   "obsidian-icons-plugin",
   "obsidian-image-layouts",
   "obsidian-banners",
-  "obsidian-day-planner",
   "homepage",
   "oz-clear-unused-images",
   "pdf-plus",
   "dataview",
   "obsidian-full-calendar",
   "heatmap-calendar",
-  "calendar"
+  "calendar",
+  "obsidian-custom-frames",
+  "obsidian-day-planner"
 ]
