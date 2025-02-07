@@ -1,7 +1,7 @@
 {
   "accentColor": "#09e8ec",
-  "theme": "moonstone",
-  "cssTheme": "Aura",
+  "theme": "obsidian",
+  "cssTheme": "Border",
   "nativeMenus": false,
   "translucency": false,
   "interfaceFontFamily": "Cascadia Code",
@@ -13,5 +13,6 @@
   "enabledCssSnippets": [
     "booksearch",
     "custom-admonitions.c5575a"
-  ]
+  ],
+  "showRibbon": true
 }

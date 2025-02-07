@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "EFFORTS/Leetcode.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Leetcode"
             }
           }
         ]
@@ -41,10 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -61,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -71,7 +81,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           },
           {
@@ -81,7 +91,7 @@
               "type": "mk-path-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "插件不再活动"
             }
           }
         ]
@@ -104,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Homepage 的反向链接列表"
             }
           },
           {
@@ -127,7 +138,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Homepage"
+              "title": "Homepage 的出链列表"
             }
           },
           {
@@ -137,10 +148,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -149,10 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -174,7 +190,7 @@
                 "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homepage"
+              "title": "Homepage的笔记属性"
             }
           },
           {
@@ -208,7 +224,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -221,33 +237,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false,
-      "canvas:Create new canvas": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-projects:打开项目": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "EFFORTS/NaviSim.md",
+    "EFFORTS/AMD RDNA.md",
+    "EFFORTS/Efforts.md",
+    "EFFORTS/Binary Search.canvas",
+    "EFFORTS/Leetcode.md",
     "Homepage.md",
     "Heatmaps.md",
     "CALENDER/2025-01-15.md",
@@ -266,16 +287,12 @@
     "EFFORTS/GPGPU-Sim.md",
     "Templates/Weekly Note.md",
     "EFFORTS/Simulators.md",
-    "EFFORTS/Efforts.md",
     "ProofReading.md",
     "Untitled.md",
     "EFFORTS/GPUWattch.md",
     "EFFORTS/TPTPUSim.md",
     "ATLAS/Atlas.md",
     "CALENDER/Dec 52nd Week 2024.md",
-    "CALENDER/Aug 34th Week 2024.md",
-    "CALENDER/Fri 20-12-2024.md",
-    "EFFORTS/Binary Search.canvas",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",
