@@ -11,12 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/mma-blackwell.excalidraw"
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "mma-blackwell"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -253,8 +265,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/memory order.md",
     "Excalidraw/mma-blackwell.excalidraw",
+    "Notes/memory order.md",
     "Notes/blackwell ptx（1）.md",
     "Excalidraw/mma-blackwell.excalidraw.crswap",
     "ATTACHMENTS/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
