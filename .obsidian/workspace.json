@@ -11,24 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "EFFORTS/Leetcode.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/mma-blackwell.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Leetcode"
+              "icon": "excalidraw-icon",
+              "title": "mma-blackwell"
             }
           }
         ]
@@ -98,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 386.5
   },
   "right": {
     "id": "43fc27400badb105",
@@ -237,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -264,12 +253,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/memory order.md",
+    "Excalidraw/mma-blackwell.excalidraw",
+    "Notes/blackwell ptx（1）.md",
+    "Excalidraw/mma-blackwell.excalidraw.crswap",
+    "ATTACHMENTS/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
+    "ATTACHMENTS/system-design.excalidrawlib",
+    "ATTACHMENTS/UML-ER-library.excalidrawlib",
+    "ATTACHMENTS/system-design-template.excalidrawlib",
+    "ATTACHMENTS/awesome-icons.excalidrawlib",
+    "ATTACHMENTS/systems-design-components.excalidrawlib",
+    "ATTACHMENTS/software-architecture.excalidrawlib",
+    "ATTACHMENTS/bubbles.excalidrawlib",
+    "Excalidraw/Drawing 2025-02-08 15.15.37.excalidraw.md",
+    "Homepage.md",
+    "EFFORTS/Leetcode.md",
+    "Notes/未命名 1.md",
     "EFFORTS/NaviSim.md",
     "EFFORTS/AMD RDNA.md",
     "EFFORTS/Efforts.md",
     "EFFORTS/Binary Search.canvas",
-    "EFFORTS/Leetcode.md",
-    "Homepage.md",
     "Heatmaps.md",
     "CALENDER/2025-01-15.md",
     "Templates/Daily Template.md",
@@ -283,16 +286,10 @@
     "CALENDER/(Every R) Moral Class.md",
     "CALENDER/2025-01-16 Moral Class.md",
     "CALENDER/Events.md",
-    "Calendar",
     "EFFORTS/GPGPU-Sim.md",
     "Templates/Weekly Note.md",
     "EFFORTS/Simulators.md",
     "ProofReading.md",
-    "Untitled.md",
-    "EFFORTS/GPUWattch.md",
-    "EFFORTS/TPTPUSim.md",
-    "ATLAS/Atlas.md",
-    "CALENDER/Dec 52nd Week 2024.md",
     "ATTACHMENTS/Pasted image 20241209213544.png",
     "ATTACHMENTS/Pasted image 20241209213532.png",
     "ATTACHMENTS/Pasted image 20241209213050.png",
@@ -302,15 +299,6 @@
     "ATTACHMENTS/Pasted image 20241209185953.png",
     "ATTACHMENTS/Pasted image 20240916145901.png",
     "ATTACHMENTS/Pasted image 20240916145837.png",
-    "ATTACHMENTS/Matrix Analysis and Applied Linear Algebra  Solutions Manual (Carl D. Meyer)2001 (Z-Library).pdf",
-    "trial/NotesByPrabin",
-    "trial",
-    "NotesByPrabin",
-    "Templates",
-    "ATTACHMENTS",
-    "EFFORTS",
-    "CALENDER",
-    "ATLAS",
     "!HOME.canvas",
     "Untitled.canvas",
     "ATLAS/SubjectNotes/C PP/Untitled.canvas",

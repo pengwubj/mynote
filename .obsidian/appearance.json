@@ -1,9 +1,9 @@
 {
   "accentColor": "#09e8ec",
-  "theme": "obsidian",
-  "cssTheme": "Border",
+  "theme": "moonstone",
+  "cssTheme": "Big & Bold",
   "nativeMenus": false,
-  "translucency": false,
+  "translucency": true,
   "interfaceFontFamily": "Cascadia Code",
   "textFontFamily": "Book Antiqua",
   "monospaceFontFamily": "Comic Sans MS",
