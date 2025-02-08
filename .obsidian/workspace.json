@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43fc27400badb105",
@@ -230,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,7 +262,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f94b156ad9d202f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.md",
     "Excalidraw/mma-blackwell.excalidraw",
