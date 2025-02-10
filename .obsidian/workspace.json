@@ -11,12 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/mma-blackwell.excalidraw"
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "mma-blackwell"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -86,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43fc27400badb105",
@@ -176,10 +187,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/mma-blackwell.excalidraw"
+                "file": "Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "mma-blackwell的笔记属性"
+              "title": "Homepage的笔记属性"
             }
           },
           {

@@ -701,8 +701,8 @@
 		},
 		{
 			"type": "text",
-			"version": 4318,
-			"versionNonce": 610064457,
+			"version": 4331,
+			"versionNonce": 365812215,
 			"index": "b55",
 			"isDeleted": false,
 			"id": "ZmYjaXe2",
@@ -712,8 +712,8 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1245.1901235447015,
-			"y": 313.29709249722384,
+			"x": 1245.3088711973285,
+			"y": 313.1745142751572,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 717.4025945004372,
@@ -728,27 +728,27 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1738998486501,
+			"updated": 1739030364209,
 			"link": null,
 			"locked": false,
 			"fontSize": 24.66780849358972,
 			"fontFamily": 5,
-			"text": "fp4 高性能 + nv-black scaling（mxf4nvf4）\nm16n8k64 row_col  a/b=f4  scale:ue8m0/ue4m3\nscale_vec x2 /x4\n不在是OCP定义的scale格式，可以支持16个k维度的数据共享一个\nscale（x4 模式），选中的线程的4byte都会备用到，byte-\nselect 不用再选了。\nscale 也增加了一种新的格式， ue4m3 , 无符号的fp8，所以不用\n像ue8m0一样单独设计 cvt指令，直接abs就好了。同fp8的e4m3\n一样，用0x7f做唯一nan，剩下的都用来表达数据。\n",
+			"text": "fp4 高性能 + nv-black scaling（mxf4nvf4）\nm16n8k64 row_col  a/b=f4  scale:ue4m3\nscale_vec x4\n不在是OCP定义的scale格式，可以支持16个k维度的数据共享一个\nscale（x4 模式），选中的线程的4byte都会备用到，byte-\nselect 不用再选了。\nscale 也增加了一种新的格式， ue4m3 , 无符号的fp8，所以不用\n像ue8m0一样单独设计 cvt指令，直接abs就好了。同fp8的e4m3\n一样，用0x7f做唯一nan，剩下的都用来表达数据。\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "fp4 高性能 + nv-black scaling（mxf4nvf4）\nm16n8k64 row_col  a/b=f4  scale:ue8m0/ue4m3\nscale_vec x2 /x4\n不在是OCP定义的scale格式，可以支持16个k维度的数据共享一个\nscale（x4 模式），选中的线程的4byte都会备用到，byte-\nselect 不用再选了。\nscale 也增加了一种新的格式， ue4m3 , 无符号的fp8，所以不用\n像ue8m0一样单独设计 cvt指令，直接abs就好了。同fp8的e4m3\n一样，用0x7f做唯一nan，剩下的都用来表达数据。\n",
+			"originalText": "fp4 高性能 + nv-black scaling（mxf4nvf4）\nm16n8k64 row_col  a/b=f4  scale:ue4m3\nscale_vec x4\n不在是OCP定义的scale格式，可以支持16个k维度的数据共享一个\nscale（x4 模式），选中的线程的4byte都会备用到，byte-\nselect 不用再选了。\nscale 也增加了一种新的格式， ue4m3 , 无符号的fp8，所以不用\n像ue8m0一样单独设计 cvt指令，直接abs就好了。同fp8的e4m3\n一样，用0x7f做唯一nan，剩下的都用来表达数据。\n",
 			"autoResize": false,
 			"lineHeight": 1.25,
 			"customData": {
 				"legacyTextWrap": true
 			},
-			"rawText": ""
+			"rawText": "fp4 高性能 + nv-black scaling（mxf4nvf4）\nm16n8k64 row_col  a/b=f4  scale:ue4m3\nscale_vec x4\n不在是OCP定义的scale格式，可以支持16个k维度的数据共享一个\nscale（x4 模式），选中的线程的4byte都会备用到，byte-\nselect 不用再选了。\nscale 也增加了一种新的格式， ue4m3 , 无符号的fp8，所以不用\n像ue8m0一样单独设计 cvt指令，直接abs就好了。同fp8的e4m3\n一样，用0x7f做唯一nan，剩下的都用来表达数据。\n"
 		},
 		{
 			"type": "arrow",
-			"version": 2881,
-			"versionNonce": 1793563453,
+			"version": 2892,
+			"versionNonce": 310873303,
 			"index": "b56",
 			"isDeleted": false,
 			"id": "3oafaKeAsgoD7a7kYrYvp",
@@ -762,14 +762,14 @@
 			"y": 140.79762108109745,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.9397956322159189,
-			"height": 152.25743942484425,
+			"width": 1.8500535553353075,
+			"height": 152.1348612027776,
 			"seed": 31004266,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1739025189428,
+			"updated": 1739030363050,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -793,8 +793,8 @@
 					0
 				],
 				[
-					-1.9397956322159189,
-					152.25743942484425
+					-1.8500535553353075,
+					152.1348612027776
 				]
 			]
 		},
@@ -3827,10 +3827,10 @@
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": -1093.520975113222,
-		"scrollY": 281.1842884105413,
+		"scrollX": -145.0935508989428,
+		"scrollY": 551.5481607887282,
 		"zoom": {
-			"value": 1.081491
+			"value": 0.594483
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
