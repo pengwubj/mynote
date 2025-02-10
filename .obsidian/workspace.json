@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Notes/ptx8687.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "ptx8687"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Notes/ptx8687.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "ptx8687 的大纲"
             }
           },
           {
@@ -238,12 +238,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 586.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,10 +272,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d23d8299e353448c",
   "lastOpenFiles": [
-    "Homepage.md",
     "Excalidraw/mma-blackwell.excalidraw",
+    "Notes/ptx8687.md",
+    "ATTACHMENTS/Pasted image 20250210181957.png",
+    "ATTACHMENTS/Pasted image 20250210181949.png",
+    "ATTACHMENTS/Pasted image 20250210181938.png",
+    "ATTACHMENTS/Pasted image 20250210181926.png",
+    "ATTACHMENTS/Pasted image 20250210181909.png",
+    "ATTACHMENTS/Pasted image 20250210181859.png",
+    "ATTACHMENTS/Pasted image 20250210181847.png",
+    "ATTACHMENTS/Pasted image 20250210181839.png",
+    "ATTACHMENTS/Pasted image 20250210181737.png",
+    "ATTACHMENTS/Pasted image 20250210181727.png",
+    "Homepage.md",
     "Notes/memory order.md",
     "Notes/blackwell ptx（1）.md",
     "Excalidraw/mma-blackwell.excalidraw.crswap",
@@ -301,7 +311,6 @@
     "CALENDER/2025-01-16.md",
     "CALENDER/Wed 15-01-2025.md",
     "CALENDER/Thu 16-01-2025.md",
-    "ATTACHMENTS/Pasted image 20250116101539.png",
     "CALENDER/(Every R) JAVA Lab.md",
     "CALENDER/(Every R) PMAT-203.md",
     "CALENDER/(Every R) PMAT-201.md",
@@ -311,16 +320,6 @@
     "EFFORTS/GPGPU-Sim.md",
     "Templates/Weekly Note.md",
     "EFFORTS/Simulators.md",
-    "ProofReading.md",
-    "ATTACHMENTS/Pasted image 20241209213544.png",
-    "ATTACHMENTS/Pasted image 20241209213532.png",
-    "ATTACHMENTS/Pasted image 20241209213050.png",
-    "ATTACHMENTS/Pasted image 20241209203923.png",
-    "ATTACHMENTS/Pasted image 20241209202233.png",
-    "ATTACHMENTS/Pasted image 20241209201857.png",
-    "ATTACHMENTS/Pasted image 20241209185953.png",
-    "ATTACHMENTS/Pasted image 20240916145901.png",
-    "ATTACHMENTS/Pasted image 20240916145837.png",
     "!HOME.canvas",
     "Untitled.canvas",
     "ATLAS/SubjectNotes/C PP/Untitled.canvas",
