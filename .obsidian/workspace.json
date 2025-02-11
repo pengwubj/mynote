@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d24f7293b207e125",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "55183421d4331e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Notes/ptx8687.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "ptx8687"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "43fc27400badb105",
@@ -273,12 +272,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "55183421d4331e4d",
   "lastOpenFiles": [
     "Homepage.md",
+    "Notes/ptx8687.md",
     "Excalidraw/mma-blackwell.excalidraw",
     "Templates/Weekly Note.md",
-    "Notes/ptx8687.md",
     "ATTACHMENTS/Pasted image 20250210181957.png",
     "ATTACHMENTS/Pasted image 20250210181949.png",
     "ATTACHMENTS/Pasted image 20250210181938.png",
